@@ -3,10 +3,11 @@
 
 <p align="center">
   🧬 Genomics & AI Scientist | 💻 Bioinformatics Lead | 🔬 Translational Researcher  
-  
-  <em>Driving precision medicine through multi-omics integration and autonomous analytics</em>
 </p>
 
+<p align="center">
+  <em>“Driving precision medicine through multi-omics integration and autonomous analytics”</em>
+</p>
 ---
 
 ### 🧠 About Me
@@ -77,10 +78,3 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rezwanuzzaman-laskar-phd-6405b045/)
 - 📜 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rezwanuzzaman+laskar&btnG=&oq=rezwanuzzaman)
 - 🧬 [ORCID](https://orcid.org/0000-0003-0504-913X)
-
----
-
-<p align="center">
-  <em>“Science isn’t just about data. It’s about transforming lives with insight, tools, and courage.”</em>
-</p>
-
