@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 <h1 align="center">👋 Dr. Rezwanuzzaman Laskar</h1>
 
 <p align="center">
@@ -108,4 +107,3 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
   <em>“Science isn’t just about data. It’s about transforming lives with insight, tools, and courage.”</em>
 </p>
 
--->
