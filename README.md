@@ -19,28 +19,6 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 
 ---
 
-### 🔬 Research Highlights
-
-#### 🧬 Francis Crick Institute (UCL-ICH)
-- Led **MosOmics**, a bespoke Nextflow pipeline for rare disease analysis
-- Integrated **SNV, CNV, SV, splicing, fusion, mosaicism**, and **expression** profiling
-- Analyzed **UK Biobank** and **Genomics England** genomes to discover disease drivers
-
-#### 🧫 National Institute of Biomedical Genomics (NIBMG)
-- Coordinated **INSACOG** and **NGS-BRICS** surveillance
-- Processed 30K+ viral genomes using my own **iSNV pipeline**
-- Built **real-time dashboards** and wastewater-based early warning systems
-
-#### 🦠 Virus Evolution & Phylogeogenomics
-- Mapped mutation hotspots & tracked SARS-CoV-2 haplogroups
-- Evaluated protein stability impacts and disease associations
-
-#### 🔁 Translational Multi-Omics
-- Integrated **bulk, single-cell, and spatial data**
-- Identified biomarkers for **drug response**, **resistance**, and **therapeutic targeting**
-
----
-
 ### 🧰 Platforms I Created
 
 | Tool          | Description                                                                 |
