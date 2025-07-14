@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">👋 Dr. Rezwanuzzaman Laskar</h1>
 
