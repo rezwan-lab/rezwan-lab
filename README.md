@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Dr. Rezwanuzzaman Laskar</h1>
----
+
 <p align="center">
   🧬 Genomics & AI Scientist | 💻 Bioinformatics Lead | 🔬 Translational Researcher  
 </p>
@@ -8,7 +8,6 @@
 <p align="center">
   <em>“Driving precision medicine through multi-omics integration and autonomous analytics”</em>
 </p>
----
 
 ### 🧠 About Me
 
