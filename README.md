@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Dr. Rezwanuzzaman Laskar</h1>
-
+---
 <p align="center">
   🧬 Genomics & AI Scientist | 💻 Bioinformatics Lead | 🔬 Translational Researcher  
 </p>
