@@ -73,9 +73,9 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 
 ### 🌐 Let’s Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/rezwan-lab](https://www.linkedin.com/in/rezwanuzzaman-laskar-phd-6405b045/))
-- 📜 [Google Scholar]([https://scholar.google.com](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rezwanuzzaman+laskar&btnG=&oq=rezwanuzzaman))
-- 🧬 [ORCID]([https://orcid.org](https://orcid.org/0000-0003-0504-913X))
+- 🔗 [LinkedIn][https://www.linkedin.com/in/rezwan-lab](https://www.linkedin.com/in/rezwanuzzaman-laskar-phd-6405b045/)
+- 📜 [Google Scholar][https://scholar.google.com](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rezwanuzzaman+laskar&btnG=&oq=rezwanuzzaman)
+- 🧬 [ORCID][https://orcid.org](https://orcid.org/0000-0003-0504-913X)
 
 ---
 
