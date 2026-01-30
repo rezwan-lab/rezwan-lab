@@ -1,15 +1,15 @@
 
-<h1 align="center">👋 Dr. Rezwanuzzaman Laskar</h1>
+<h1 align="center"> Dr. Rezwanuzzaman Laskar</h1>
 
 <p align="center">
-  🧬 Genomics & AI Scientist | 💻 Bioinformatics Lead | 🔬 Translational Researcher  
+  Genomics & AI Scientist | Bioinformatics Lead | Translational Researcher  
 </p>
 
 <p align="center">
   <em>“Driving precision medicine through multi-omics integration and autonomous analytics”</em>
 </p>
 
-### 🧠 About Me
+### About Me
 
 I’m a computational biologist bridging the gap between wet-lab experiments and dry-lab analytics in a dynamic “lab-in-loop” setting. I specialize in:
 
@@ -20,7 +20,7 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 
 ---
 
-### 🧰 Platforms I Created
+### Platforms I Created
 
 | Tool          | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
@@ -32,7 +32,7 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
@@ -63,7 +63,7 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rezwan-lab&show_icons=true&theme=default&count_private=true" height="180"/>
@@ -72,8 +72,8 @@ I’m a computational biologist bridging the gap between wet-lab experiments and
 
 ---
 
-### 🌐 Let’s Connect
+### Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rezwanuzzaman-laskar-phd-6405b045/)
-- 📜 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rezwanuzzaman+laskar&btnG=&oq=rezwanuzzaman)
-- 🧬 [ORCID](https://orcid.org/0000-0003-0504-913X)
+-  [LinkedIn](https://www.linkedin.com/in/rezwanuzzaman-laskar-phd-6405b045/)
+-  [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=rezwanuzzaman+laskar&btnG=&oq=rezwanuzzaman)
+-  [ORCID](https://orcid.org/0000-0003-0504-913X)
